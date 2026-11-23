@@ -1,0 +1,1 @@
+{"description":"One deadpan one-star review of an everyday essential, in a single line of at most 160 characters.","license":"MIT","main":"main.ts","name":"one-star-review-essential-01","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
